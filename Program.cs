@@ -1,7 +1,7 @@
 ﻿// Crear un Loop que imprima todos los valores del 1 al 255
-for (short i = 1; i <= 255; i++)
+for (short ix = 1; ix <= 255; ix++)
 {
-    Console.WriteLine(i);
+    Console.WriteLine(ix);
 }
 /* Crear un nuevo loop que imprima todos los valores del 1 al 100 que son divisibles 
 por 3 o 5, pero no ambos
